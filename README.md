@@ -1,8 +1,7 @@
 # 5thpillarVITapp
 <img width="321" height="367" alt="ipa " src="https://github.com/user-attachments/assets/4596e6ec-7c33-4b82-95d7-d74a4f474e40" />
+<img width="1892" height="905" alt="h" src="https://github.com/user-attachments/assets/c00c8392-e209-4696-a13d-3875b89fa462" />
 
-
-![1000060789](https://github.com/user-attachments/assets/1f8c5063-5050-4f94-acd8-8c808a0dc3fa)
 ![1000060785](https://github.com/user-attachments/assets/282ff7f3-cca8-414a-b413-4b337ef84d96)
 ![1000060787](https://github.com/user-attachments/assets/375da835-b121-493e-8b27-f04cc2ed2e5d)
 
